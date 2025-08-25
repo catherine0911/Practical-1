@@ -3,4 +3,7 @@ This is my first GitHub repository for the Reproducibility & Model Deployment co
 I updated 
 Author: Thu Pham
 ## Edited on GitHub Web
-ahihihihih
+
+## About Me
+Hi, I’m <Your Name>.
+I’m learning how to use GitHub Issues.

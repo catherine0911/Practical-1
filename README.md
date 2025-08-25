@@ -1,2 +1,3 @@
 # Practical-1
-This is a practical 1
+This is my first GitHub repository for the Reproducibility & Model Deployment course.  
+Author: Thu Pham
